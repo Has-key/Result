@@ -215,5 +215,4 @@ public func &&& <T, U, Error> (left: Result<T, Error>, @autoclosure right: () ->
 }
 
 
-import Box
 import Foundation
